@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.0.3
+
+- Added "--login" and "--login-save" arguments.
+- Fixed "KeyError: 'depotfromapp'" and "KeyError: 'steamcontrollerconfigdetails'" on some appids.
+
 ## v2.0.2
 
 - Fixed "KeyError: 'type'" on some appids.
